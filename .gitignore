@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+logs/
+data/
+wandb/
+analysis/.ipynb_checkpoints
+*.pickle
+*.pdf
+*.png
